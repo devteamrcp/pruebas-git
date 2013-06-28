@@ -5,4 +5,4 @@ Repositorio de pruebas de git.
 
 :)
 
-(c) 2013 - RCP.
+(c) 2013 - Red Cientifica Peruana
