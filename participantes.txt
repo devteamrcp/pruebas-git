@@ -1,2 +1,3 @@
-walter rafael 	wrafael@rcp.pe
-Gonzalo Chacaltana gchacaltanab@outlook.com
+Walter Rafael <wrafael@rcp.pe>
+Gonzalo Chacaltana <gchacaltanab@outlook.com>
+Antonio Ognio <aognio@rcp.pe>
